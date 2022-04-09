@@ -15,6 +15,6 @@ public class FirstApplication {
 
 	@GetMapping
 	public String hello() {
-		return "Hello world";
+		return "Hello";
 	}
 }

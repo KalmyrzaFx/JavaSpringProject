@@ -1,1 +1,2 @@
-# JavaSpringProject
+# Midterm project 
+### Contact book application 
